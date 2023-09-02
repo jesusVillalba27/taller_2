@@ -1,0 +1,19 @@
+.body {
+    background-color: #ffffff;
+}
+
+.titulo {
+    text-align: center;
+    background-color: #333333;
+    align-items: center;
+    width: 98%;
+    font-size: 20px;
+    margin: 1%;
+}
+
+.seccion {
+    background-color: #F5F5F1;
+    width: 98%;
+    margin: 1%;
+}
+
